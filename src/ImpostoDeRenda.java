@@ -28,8 +28,6 @@ public class ImpostoDeRenda
         else {
             System.out.printf("R$ %.2f%n", imposto);
         }
-
-
         sc.close();
     }
 }
